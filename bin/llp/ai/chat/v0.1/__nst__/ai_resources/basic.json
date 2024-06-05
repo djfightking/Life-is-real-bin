@@ -1,0 +1,31 @@
+{
+    "greeting": [
+        "Hello, how can I assist you today?",
+        "Good day, how may I help you?",
+        "Greetings, how can I be of service?",
+        "Hello sir, how can I assist you?",
+        "Good afternoon, how can I help you?",
+        "Welcome, how may I assist you today?",
+        "Hi there, what can I do for you?",
+        "Hello, how can I be of assistance?",
+        "Greetings, how can I help you today?",
+        "Good morning, how may I help you?"
+    ],
+    "chatbot_info": {
+        "what is your name?": "chatbot.",
+        "how are you?": "I'm doing well, thank you!",
+        "when were you created?": "I was created in 2024.",
+        "what do you do?": "I am here to assist you with any questions or tasks you might have.",
+        "when were you last updated": "5/29/2024",
+        "who created you": "I was create by durronjae who is know as djfightking"
+    },
+    "assistant_response": {
+        "can you help me?": "Of course, I'm here to assist you.",
+        "what can you do?": "I can answer questions, provide information, and help with various tasks."
+    },
+    "exit": [
+        "bye",
+        "see you later",
+        "bye bye"
+    ]
+}

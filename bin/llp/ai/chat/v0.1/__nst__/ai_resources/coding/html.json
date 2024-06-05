@@ -1,0 +1,30 @@
+{
+    "coding_html": {
+        "what is html": "HTML stands for HyperText Markup Language and is used to create the structure of web pages.",
+        "what is html and how to use it": "HTML is used to create web pages. You can start using it by downloading an editor like VSCode or using an online platform like GitHub and creating an index.html file.",
+        "how to create a basic html page": "To create a basic HTML page, start with a <!DOCTYPE html> declaration, followed by <html>, <head>, and <body> tags. Inside <body>, you can add content like headings, paragraphs, and links.",
+        "what are html tags": "HTML tags are elements enclosed in angle brackets that define the structure and content of a web page.",
+        "how to link css in html": "To link CSS in HTML, use the <link> tag within the <head> section. For example: <link rel=\"stylesheet\" href=\"styles.css\">.",
+        "how to add images in html": "To add images in HTML, use the <img> tag with the src attribute pointing to the image file. For example: <img src=\"image.jpg\" alt=\"Description\">.",
+        "how to create links in html": "To create links in HTML, use the <a> tag with the href attribute. For example: <a href=\"https://example.com\">Click here</a>.",
+        "what is a html element": "An HTML element consists of a start tag, content, and an end tag. For example, <p>Content</p>.",
+        "how to create lists in html": "To create lists in HTML, use the <ul> tag for unordered lists and the <ol> tag for ordered lists, with <li> for list items.",
+        "how to create tables in html": "To create tables in HTML, use the <table> tag, with <tr> for rows, <th> for headers, and <td> for data cells.",
+        "how to add videos in html": "To add videos in HTML, use the <video> tag with the src attribute. For example: <video src=\"video.mp4\" controls></video>.",
+        "how to create forms in html": "To create forms in HTML, use the <form> tag with input elements like <input>, <textarea>, and <select>.",
+        "how to use html attributes": "HTML attributes provide additional information about elements. They are included in the opening tag and come in name/value pairs. For example, <img src=\"image.jpg\" alt=\"Description\">.",
+        "how to comment in html": "To add comments in HTML, enclose the comment text within <!-- and -->. For example, <!-- This is a comment -->.",
+        "how to use html5": "HTML5 introduces new elements and attributes, including <article>, <section>, <nav>, and support for audio and video tags.",
+        "how to add meta tags in html": "Meta tags provide metadata about the HTML document and are placed inside the <head> section. For example, <meta charset=\"UTF-8\">.",
+        "how to structure a html document": "An HTML document starts with a <!DOCTYPE html> declaration, followed by <html>, <head>, and <body> tags.",
+        "how to use the html5 canvas element": "The HTML5 <canvas> element is used to draw graphics on a web page via scripting, usually with JavaScript.",
+        "how to use the html5 audio element": "The HTML5 <audio> element is used to embed audio files in a web page. For example, <audio src=\"audio.mp3\" controls></audio>.",
+        "how to use the html5 video element": "The HTML5 <video> element is used to embed video files in a web page. For example, <video src=\"video.mp4\" controls></video>.",
+        "what is a html document": "An HTML document is a file that contains HTML code, defining the structure and content of a web page.",
+        "how to include javascript in html": "To include JavaScript in HTML, use the <script> tag, either within the <head> or at the end of the <body>. For example, <script src=\"script.js\"></script>.",
+        "how to add a favicon in html": "To add a favicon to an HTML page, use the <link> tag within the <head> section. For example, <link rel=\"icon\" href=\"favicon.ico\">.",
+        "how to use semantic html": "Semantic HTML uses elements like <header>, <footer>, <article>, and <section> to provide meaning to the structure of the web page.",
+        "how to create a navigation menu in html": "To create a navigation menu in HTML, use the <nav> element and <ul> or <ol> for the list of links.",
+        "what is the difference between html and html5": "HTML5 is the latest version of HTML, introducing new elements, attributes, and features for modern web development."
+    }
+}

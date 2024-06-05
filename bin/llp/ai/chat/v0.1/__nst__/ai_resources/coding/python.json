@@ -1,0 +1,9 @@
+{
+    "coding_python": {
+        "what is python": "Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. It has a large and comprehensive standard library that provides tools and modules for various tasks.",
+        "what do you need to start a python project": "To start a Python project, you need to have Python installed on your computer. Additionally, you might want to have a code editor (like Visual Studio Code, PyCharm, or Sublime Text) and a version control system (like Git). It is also helpful to set up a virtual environment to manage dependencies.",
+        "how to create a virtual environment in python": "To create a virtual environment in Python, use the command `python -m venv env_name`. Replace `env_name` with your desired environment name. Activate the environment using `source env_name/bin/activate` on Unix or `env_name\\Scripts\\activate` on Windows.",
+        "how to install packages in python": "You can install packages in Python using the pip package manager. For example, to install the requests package, use the command `pip install requests`.",
+        "what are some popular python libraries": "Some popular Python libraries include NumPy for numerical computing, Pandas for data analysis, Matplotlib for data visualization, and Flask for web development."
+    }
+}
